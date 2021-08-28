@@ -1,0 +1,5 @@
+42a1005cb06a49633bc3d9e7e3b496a7
+
+Get current weather by name: 
+
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
